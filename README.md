@@ -10,3 +10,4 @@ There are tasks to try and learn such python libs as:
 <li> Numpy </li>
 <li> Pandas </li>
 <li> Libs to work with Json, pickle and xml </li>
+<li> Matplotlib and Seaborn </li>
